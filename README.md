@@ -1,5 +1,3 @@
-# Project template
+# Notion to Joplin
 
-This is a template to serve as a starting point for new repos.
-
-**Reminder:** Add a license to your new project
+Experiments in using the Notion API to export data from Notion for import into Joplin
